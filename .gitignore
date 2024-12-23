@@ -1,0 +1,8 @@
+/target
+
+certs/**
+!certs/README.md 
+
+.env
+.env.*
+!.env.example
