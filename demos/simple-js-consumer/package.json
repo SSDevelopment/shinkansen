@@ -3,6 +3,7 @@
   "module": "index.js",
   "type": "module",
   "dependencies": {
+    "deep-object-diff": "^1.1.9",
     "dotenv": "^16.4.7",
     "node-rdkafka": "^3.2.1"
   },
